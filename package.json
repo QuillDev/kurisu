@@ -1,0 +1,7 @@
+{
+  "version": "0.0.5",
+  "name": "kurisu",
+  "dependencies": {
+    "slash-create": "^5.7.0"
+  }
+}
